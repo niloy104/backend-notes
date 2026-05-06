@@ -3,7 +3,7 @@
 Backend engineering notes in one place.
 
 ## Topics
--Networking
+- Networking
 
 ## Structure
 backend/ golang/ system-design/ tools/ interview/
