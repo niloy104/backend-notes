@@ -21,3 +21,6 @@ OSI Model have 7 layers:
 <img width="560" height="456" alt="image" src="https://github.com/user-attachments/assets/067f83f5-334d-40ba-aced-6284a496195c" />
 For more detailed information, check this reference:  
 [What is OSI Model - BlueCat Networks](https://bluecatnetworks.com/glossary/what-is-the-osi-model/)
+
+# Some Importanat things on OSI Model
+Packet means Layer 3, and Segment means Layer 4
